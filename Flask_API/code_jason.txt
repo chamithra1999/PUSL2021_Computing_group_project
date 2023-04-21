@@ -1,0 +1,20 @@
+{
+    "age": 40,
+    "bp": 80,
+    "al": 1,
+    "su": 0,
+    "rbc": "normal",
+    "pc": "abnormal",
+    "pcc": "present",
+    "ba": "notpresent",
+    "bgr": 120,
+    "bu": 20,
+    "sc": 0.8,  
+    "pot": 4.5,
+    "wc": 8400,
+    "htn": "yes",
+    "dm": "yes",
+    "cad": "no",  
+    "pe": "no",
+    "ane": "no"
+}
