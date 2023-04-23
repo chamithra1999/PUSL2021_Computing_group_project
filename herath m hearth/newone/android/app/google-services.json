@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859663952807",
+    "project_id": "ckdlogin-7c159",
+    "storage_bucket": "ckdlogin-7c159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859663952807:android:c4ba31f157b9db2aec2482",
+        "android_client_info": {
+          "package_name": "com.example.newone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859663952807-isal1vq2opq2de72eimbtpui4pr585rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmRG72KXt2V2bJwkU9VsMugdwQYj8IvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859663952807-isal1vq2opq2de72eimbtpui4pr585rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
